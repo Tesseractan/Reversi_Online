@@ -1,7 +1,39 @@
 ﻿<?xml version='1.0' encoding='utf-8'?>
-<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)">
-  <Profiles>
-    <Profile Name="(Default)" />
-  </Profiles>
-  <Settings />
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Reversi_Online.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="machine_level" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="duration_min" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">5</Value>
+    </Setting>
+    <Setting Name="board_size" Type="System.Drawing.Size" Scope="User">
+      <Value Profile="(Default)">8, 8</Value>
+    </Setting>
+    <Setting Name="playing_color" Type="System.String" Scope="User">
+      <Value Profile="(Default)">random</Value>
+    </Setting>
+    <Setting Name="board_colorA" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Green</Value>
+    </Setting>
+    <Setting Name="board_colorB" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">215, 188, 156</Value>
+    </Setting>
+    <Setting Name="board_white_stone_image_ID" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="board_black_stone_image_ID" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="offline_game_time_control" Type="System.String" Scope="User">
+      <Value Profile="(Default)">5</Value>
+    </Setting>
+    <Setting Name="offline_user_name" Type="System.String" Scope="User">
+      <Value Profile="(Default)">You</Value>
+    </Setting>
+    <Setting Name="offline_opponents_name" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Opponent</Value>
+    </Setting>
+  </Settings>
 </SettingsFile>

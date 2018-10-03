@@ -6,7 +6,7 @@ using System.Runtime.InteropServices;
 // zestaw atrybutów. Zmień wartości tych atrybutów, aby zmodyfikować informacje
 // powiązane z zestawem.
 [assembly: AssemblyTitle("Reversi_Online")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Have fun playing this awesome game also known as Othello. You are able to play with the machine with configurable power offline or sign in, invite friends, play online and chat while the game lasts.")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("Reversi_Online")]

@@ -16,7 +16,10 @@ namespace Reversi_Online
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            //Server.Stimulate();
+            //DataServer.Connect();
+            Servers.ConnectAll();
+            Application.Run(new Menu());
         }
     }
 }
